@@ -1,11 +1,5 @@
-# <center>Hello,There 👋 I'm Rajeev Puri. <br> Trust me, I’m an upcoming software engineer!</center>
-
-### <center>• Student • [Bhaktapur 44800, Nepal](https://en.wikipedia.org/wiki/Bhaktapur) • [razeev.dev@gmail.com](mailto:razeev.dev@gmail.com)
-
-</center>
-
-
-> "We live two lives. The second begins when we realize we only have one." - Confucius
+<h1 align="center">Hello,There 👋 I'm Rajeev Puri. <br> Trust me, I’m an upcoming software engineer!</h1>
+<h3 align="center">• <a href="https://en.wikipedia.org/wiki/Bhaktapur" target="_blank">Bhaktapur 44800, Nepal</a> • <a href="mailto:razeev.dev@gmail.com" target="_blank">razeev.dev@gmail.com</a></h3>
 
 ## 📚 Profile
 
@@ -20,6 +14,10 @@
 🌱 Embracing lifelong learning, I'm currently exploring the realms of serverless computing, microservices, and real-time app development to stay ahead of the curve and expand my skill set.
 
 💡 With a passion for innovation, I'm committed to experimenting with new tools and technologies to enhance both user experience and backend performance, driving digital transformation and excellence.
+
+🌟 Quote that inspire me
+
+> "We live two lives. The second begins when we realize we only have one." - Confucius
 
 ## 🌐 Socials
 
