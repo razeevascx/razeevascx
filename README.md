@@ -1,4 +1,4 @@
-<h1 >Hello👋 I'm Rajeev Puri. Currently a BSc Student and a software engineer</h1>
+<h2 >Hello👋 I'm Rajeev Puri. Currently a BSc Student and a software engineer</h2>
 
 > Life folds into two phases, Second one starts once we realize we got only one. 🦢🪷 - Confucius
 
